@@ -1,0 +1,17 @@
+/base/popstra/celebrity/breakup./base/popstra/breakup/participant
+/location/country/capital
+/location/hud_county_place/place
+/education/educational_institution_campus/educational_institution
+/sports/sports_team_location/teams
+/base/aareas/schema/administrative_area/capital
+/education/educational_institution/campuses
+/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity
+/people/person/sibling_s./people/sibling_relationship/sibling
+/location/us_county/county_seat
+/people/person/spouse_s./people/marriage/spouse
+/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+/influence/influence_node/peers./influence/peer_relationship/peers
+/tv/tv_program/program_creator
+/organization/organization_founder/organizations_founded
+/dataworld/gardening_hint/split_to
+/film/film/prequel
